@@ -68,10 +68,11 @@ access information about your tmux environment.
 Formats are often specified via `-F` flag.
 
 You know how template engines such as
-[mustache](https://mustache.github.io/), [handlebars](http://handlebarsjs.com/)
-[ERB](http://ruby-doc.org/stdlib-2.3.3/libdoc/erb/rdoc/ERB.html) in ruby,
-[jinja2](http://jinja.pocoo.org/docs/dev/) in python,
-[twig](http://twig.sensiolabs.org/) in PHP and
+[mustache](https://mustache.github.io/), 
+[handlebars](http://handlebarsjs.com/), and 
+[ERB](http://ruby-doc.org/stdlib-2.3.3/libdoc/erb/rdoc/ERB.html) in Ruby,
+[jinja2](http://jinja.pocoo.org/docs/dev/) in Python,
+[twig](http://twig.sensiolabs.org/) in PHP, and
 [JSP](https://en.wikipedia.org/wiki/JavaServer_Pages) in Java allow template
 variables? Formats are a similar concept.
 
